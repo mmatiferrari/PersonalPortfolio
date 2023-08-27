@@ -35,7 +35,7 @@ export default function HeroSection() {
           </div>
           <a
             id="ButtonCV"
-            href="../../../public/img/CV_Matias_Ferrari.pdf"
+            href="../../../public/img/CV_MatiasFerrari_ESP.pdf"
             download
             className="btn btn-primary"
           >

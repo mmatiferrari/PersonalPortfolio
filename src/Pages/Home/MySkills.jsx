@@ -15,7 +15,11 @@ export default function MySkills() {
             </div>
             <div className="skills--section--card--content">
               <h3 className="skills--section--title">{item.title}</h3>
-              <p className="skills--section--description">{item.description}</p>
+              <ul className="skills--section--description">
+                {item.description.map((tech, techIndex) => (
+                  <div className="container--skills" key={techIndex}>{tech}</div>
+                ))}
+              </ul>
             </div>
           </div>
         ))}

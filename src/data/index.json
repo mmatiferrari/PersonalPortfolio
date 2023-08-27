@@ -4,25 +4,45 @@
       "id": "1",
       "src": "./img/feather-pen-1.png",
       "title": "Lenguajes",
-      "description": "Javascript, c# y c++."
+      "description": ["Javascript", "c#", "c++"]
     },
     {
       "id": "2",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "HTML, CSS, React, React Native, Next, Redux, Redux Toolkit, Google Cloud, Firebase, Auth0, Mercado Pago, Stripe, Paypal, Figma, Bootstrap, Tailwind, Material UI, Chakra UI, Ant Design."
+      "description": [
+        "HTML",
+        "CSS",
+        "React",
+        "React Native",
+        "Next",
+        "Redux",
+        "Redux Toolkit",
+        "Google Cloud",
+        "Firebase",
+        "Auth0",
+        "Mercado Pago",
+        "Stripe",
+        "Paypal",
+        "Figma",
+        "Bootstrap",
+        "Tailwind",
+        "Material UI",
+        "Chakra UI",
+        "Ant Design"
+      ]
     },
     {
       "id": "3",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Node.js, MySQL, Express, MongoDB, Postman."
+      "description": ["Node.js", "MySQL", "Express", "MongoDB", "Postman"]
     },
     {
       "id": "4",
       "src": "./img/juego-de-ordenador.png",
       "title": "Game Development",
-      "description": "Unity, Unreal Engine 5, GameMaker Studio 2, Blender, ZBrush, Procreate."
+      "description": ["Unity", "Unreal Engine 5", "GameMaker Studio 2", "Blender", "ZBrush", "Procreate"]
     }
   ],
   "portfolio": [

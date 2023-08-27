@@ -801,5 +801,12 @@ input[type="checkbox"] {
   margin-right: 25px;
 
 }
+.container--skills {
+  background-color: hsl(187, 76%, 92%);
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 5px;
+  display: inline-block;
+}
 
 /* Responsive Screens Ends*/
