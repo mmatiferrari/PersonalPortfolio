@@ -38,8 +38,17 @@ export default function HeroSection() {
             href={process.env.NODE_ENV === 'production' ? '/img/CV_MatiasFerrari_ESP.pdf' : '../../../public/img/CV_MatiasFerrari_ESP.pdf'}
             download
             className="btn btn-primary"
+            style={{ marginRight: '10px' }}
           >
             Descargar CV
+          </a>
+          <a
+            id="ButtonCV_ENG"
+            href={process.env.NODE_ENV === 'production' ? '/img/CV_MatiasFerrari_ENG.pdf' : '../../../public/img/CV_MatiasFerrari_ENG.pdf'}
+            download
+            className="btn btn-primary"
+          >
+            Download CV
           </a>
         </div>
       <div id="icon--main" className="footer--social--icon">
